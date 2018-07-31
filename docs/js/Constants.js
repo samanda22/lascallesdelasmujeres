@@ -13,7 +13,10 @@ function Constants(){
         {id: 'lima', name: 'Lima', datos: {numLink:155,pcLink:58.1,numNoLink:112,pcNoLink:41.9,numMale:2881,numFemale:267,pcMale:91.5,pcFemale:8.5,totalNames:3148}, center: [ -77.02824, -12.04318]},
         {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]},
         {id: 'rosario', name: 'Rosario', datos: {numLink:28,pcLink:43.8,numNoLink:36,pcNoLink:56.3,numMale:504,numFemale:64,pcMale:88.7,pcFemale:11.3,totalNames:568}, center: [-60.6553737,  -32.9427715]},
-		{id: 'sanjose', name:'San Jose', datos: {numLink:1,pcLink:3.7,numNoLink:26,pcNoLink:96.3,numMale:41,numFemale:27,pcMale:60.3,pcFemale:39.7,totalNames:68}, center: [-84.24, 9.77]}];
+		{id: 'sanjose', name:'San Jose', datos: {numLink:1,pcLink:3.7,numNoLink:26,pcNoLink:96.3,numMale:41,numFemale:27,pcMale:60.3,pcFemale:39.7,totalNames:68}, center: [-84.24, 9.77]},
+
+		{id:'costarica', name: 'Costa Rica', datos: {numLink:22,pcLink:32.4,numNoLink:46,pcNoLink:67.6,numMale:80,numFemale:68,pcMale:54.1,pcFemale:45.9,totalNames:148}, center: [-84.24, 9.77]}];
+
     
     this.lang = {
         es : {
