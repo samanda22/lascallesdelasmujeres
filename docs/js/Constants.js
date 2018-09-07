@@ -4,7 +4,6 @@ function Constants(){
     this.mapDarkStyle = 'mapbox://styles/mapbox/dark-v9';
     this.initCenter = [	-39.11133, 36.66842];
 
-
     this.countriesList = [
         {id: 'argentina', name: 'Argentina', citiesList: [
           {id: 'resistencia', name: 'Resistencia', datos: {numLink:51,pcLink:75.0,numNoLink:17,pcNoLink:25.0,numMale:474,numFemale:68,pcMale:87.5,pcFemale:12.5,totalNames:542}, center: [ -58.98652, -27.45112]},
@@ -25,7 +24,6 @@ function Constants(){
         {id: 'uruguay', name: 'Uruguay', citiesList:[
           {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]}
     ];
-
 
 
     this.lang = {
