@@ -28,8 +28,6 @@ function initApp(){
     });
 
 
-
-
     for (let j=0; j<constants.countriesList.length; j++){
         const country = constants.countriesList[j];
 
