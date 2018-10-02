@@ -1,7 +1,18 @@
 calle;calleClean;name;surname;fiabilidad;gender;wikipedia
-Calle La Joaquina;La Joaquina;La;Joaquina;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Joaquina_de_Viera_y_Clavijo
+Calle La Joaquina;La Joaquina;La;Joaquina;2;Female;
+Calle Piedades;Piedades;Piedades;;2;Female;
+Calle Angélica;Angélica;Angélica;;2;Female;
+Calle Higinia;Higinia;Higinia;;2;Female;
+Calle Rosalinda;Rosalinda;Rosalinda;;2;Female;
+Calle La Claudia;La Claudia;La;Claudia;2;Female;
+Calle La Trinidad;La Trinidad;La;Trinidad;2;Female;
+La matilde;La matilde;La;matilde;2;Female;
+Calle Santa Marta;Santa Marta;Santa;Marta;2;Female;https://es.wikipedia.org/wiki/Marta_de_Betania
+Calle Venus;Venus;Venus;;2;Female;https://es.wikipedia.org/wiki/Venus_(mitolog%C3%ADa)
+Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Isabel_de_Hungr%C3%ADa_la_virgen
+Avenida La Aurora;La Aurora;La;Aurora;2;Female;
+Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Male;
 Calle Don Ricardo;Don Ricardo;Don;Ricardo;-2;Male;
-Calle Piedades;Piedades;Piedades;;2;Female;https://es.wikipedia.org/wiki/Piedad_Solans_Blanco
 Calle San José;San José;San;José;-2;Male;
 Puente Rincón de Ricardo;Puente  Ricardo;Puente;;-2;Male;
 Calle San Martín;San Martín;San;Martín;-2;Male;
@@ -10,38 +21,20 @@ Avenida Jesús Jiménez;Jesús Jiménez;Jesús;Jiménez;-2;Male;
 Calle Pedro León;Pedro León;Pedro;León;-2;Male;
 Calle Don Pedro;Don Pedro;Don;Pedro;-2;Male;
 Calle Alfonso;Alfonso;Alfonso;;-2;Male;
-Calle Angélica;Angélica;Angélica;;2;Female;https://es.wikipedia.org/wiki/Ang%C3%A9lica_(presentadora)
-Calle Higinia;Higinia;Higinia;;2;Female;https://es.wikipedia.org/wiki/Higinia_Bartolom%C3%A9_del_%C3%81lamo
-Calle Breña Mora;Breña Mora;Breña;Mora;2;Female;https://es.wikipedia.org/wiki/Ana_Teresa_Morales
 Calle Cristo Rey;Cristo Rey;Cristo;Rey;-2;Male;
-Calle Rosalinda;Rosalinda;Rosalinda;;2;Female;https://es.wikipedia.org/wiki/Rosalinda_L%C3%B3pez_Hern%C3%A1ndez
 Calle Salomón Hernández;Salomón Hernández;Salomón;Hernández;-2;Male;
 Puente San Miguel;San Miguel;San;Miguel;-2;Male;
-Radial Santa Ana;Radial Santa Ana;Radial;Santa;2;Female;https://es.wikipedia.org/wiki/Muriel_Santa_Ana
-Calle La Paula;La Paula;La;Paula;2;Female;https://es.wikipedia.org/wiki/Ana_Paula_Oliveira
-Avenida Central - Juan Manuel López del Corral;Central - Juan Manuel López Corral;Central;-;-2;Male;
-Calle Maria Isabel;Maria Isabel;Maria;Isabel;2;Female;https://es.wikipedia.org/wiki/Maria_Isabel_Barreno
-Calle Fabio Molina;Fabio Molina;Fabio;Molina;-2;Male;
-Calle La Claudia;La Claudia;La;Claudia;2;Female;https://es.wikipedia.org/wiki/Ana_Claudia_de_Le%C3%B3n
-Calle La Trinidad;La Trinidad;La;Trinidad;2;Female;https://es.wikipedia.org/wiki/Zelina_Vega
 Calle Joaquín Arias;Joaquín Arias;Joaquín;Arias;-2;Male;
 Puente Francisco J. Orlich;Francisco J. Orlich;Francisco;J.;-2;Male;
 Calle San Roque;San Roque;San;Roque;-2;Male;
 Calle Urbanización Benjamin;Urbanización Benjamin;Urbanización;Benjamin;-2;Male;
-La matilde;La matilde;La;matilde;2;Female;https://es.wikipedia.org/wiki/Elsa_Matilde_Zardini
 Calle Marcos Víquez;Marcos Víquez;Marcos;Víquez;-2;Male;
 Calle José Muñoz;José Muñoz;José;Muñoz;-2;Male;
-Calle Santa Marta;Santa Marta;Santa;Marta;2;Female;https://es.wikipedia.org/wiki/Cara_Santa_Maria
 Calle Wilson Víquez;Wilson Víquez;Wilson;Víquez;-2;Male;
-Calle Venus;Venus;Venus;;2;Female;https://es.wikipedia.org/wiki/Venus_Palermo
-Calle Los Ángeles;Los Ángeles;Los;Ángeles;2;Female;https://es.wikipedia.org/wiki/Los_%C3%81ngeles_de_Leakey
-Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Isabel_de_Hungr%C3%ADa_la_virgen
 Hacienda San Agustín;San Agustín;San;Agustín;-2;Male;
 Avenida Cristobal;Cristobal;Cristobal;;-2;Male;
-Avenida La Aurora;La Aurora;La;Aurora;2;Female;https://es.wikipedia.org/wiki/Pepa_Aurora
 Avenida William H. Taft;William H. Taft;William;H.;-2;Male;
 Calle Rub�n Dar��o;Rubén Darío;Rubén;Darío;-2;Male;
-Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Female;https://es.wikipedia.org/wiki/Dione_Anguiano_Flores
 Avenida Luis R. Flores;Luis R. Flores;Luis;R.;-2;Male;
 Calle Omar Dengo Guerrero;Omar Dengo Guerrero;Omar;Dengo;-2;Male;
 Calle Manuel Benavides R.;Manuel Benavides R.;Manuel;Benavides;-2;Male;
