@@ -25,8 +25,10 @@ function Constants(){
           {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]},
 		{id: 'costarica', name: 'Costa Rica', citiesList:[
 	
-	{id:'heredia', name:'Heredia', datos: {numLink:3,pcLink:25.0,numNoLink:9,pcNoLink:75.0,numMale:28,numFemale:12,pcMale:70.0,pcFemale:30.0,totalNames:40}, center:[-84.1191,9.998745]}]}
-    ];
+		{id: 'costarica', name: 'Costa Rica', citiesList:[
+          {id:'sanjose', name:'San Jose', datos: {numLink:22,pcLink:100.0,numNoLink:0,pcNoLink:0.0,numMale:52,numFemale:22,pcMale:70.3,pcFemale:29.7,totalNames:74}, center: [ -84.0777, 9.9313 ]},
+          {id:'heredia', name:'Heredia', datos: {numLink:3,pcLink:25.0,numNoLink:9,pcNoLink:75.0,numMale:28,numFemale:12,pcMale:70.0,pcFemale:30.0,totalNames:40}, center:[-84.1191,9.998745]},
+          {id:'alajuela', name:'Alajuela', datos: {numLink:4,pcLink:23.5,numNoLink:13,pcNoLink:76.5,numMale:40,numFemale:17,pcMale:70.2,pcFemale:29.8,totalNames:57}, center: [ -84.214987, 10.014589]}]}];
 
 
     this.lang = {
