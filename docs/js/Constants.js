@@ -22,7 +22,11 @@ function Constants(){
         {id: 'peru', name: 'Perú', citiesList:[
           {id: 'lima', name: 'Lima', datos: {numLink:155,pcLink:58.1,numNoLink:112,pcNoLink:41.9,numMale:2881,numFemale:267,pcMale:91.5,pcFemale:8.5,totalNames:3148}, center: [ -77.02824, -12.04318]}]},
         {id: 'uruguay', name: 'Uruguay', citiesList:[
-          {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]}
+          {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]},
+          {id: 'costarica', name: 'Costa Rica', citiesList:[
+          {id:'heredia', name:'Heredia', datos: {numLink:3,pcLink:25.0,numNoLink:9,pcNoLink:75.0,numMale:28,numFemale:12,pcMale:70.0,pcFemale:30.0,totalNames:40}, center:[-84.1191,9.998745]},
+          {id:'alajuela', name:'Alajuela', datos: {numLink:4,pcLink:23.5,numNoLink:13,pcNoLink:76.5,numMale:40,numFemale:17,pcMale:70.2,pcFemale:29.8,totalNames:57}, center: [ -84.214987, 10.014589]}]}
+
     ];
 
     this.lang = {
@@ -60,7 +64,7 @@ function Constants(){
                 chartText1: 'Dones amb article a Wikipedia'
             },
             popupText: 'Carrer sense article'
-        }        
+        }
 /*         "en" : {
             panelDescriptionText1 : 'Mapa generat a partir dels carrers amb nom de dones, a diferents ciutats de parla hispana (Llatinoamèrica i Espanya).',
             panelDescriptionText2 : 'L\'objectiu és visibilitzar la bretxa que existeix històricament en la representació de figures femenines en els carrers de les ciutats.',
